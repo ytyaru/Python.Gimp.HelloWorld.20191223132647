@@ -1,4 +1,4 @@
-﻿<small>[en](./blob/master/ReadMe.en.md)</small>
+﻿<small>[en](./ReadMe.en.md)</small>
 
 # Hello GimpFu !!
 
